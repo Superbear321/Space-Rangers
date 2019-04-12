@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+### Space Rangers
 
-You can use the [editor on GitHub](https://github.com/Superbear321/Space-war/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this game you a Space Ranger patrolling the Galaxy when you come across millions of aggressive aliens start to attack you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Goal
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Live for as long as possible before getting killed by the increasing difficulty of aliens
 
 # Header 1
 ## Header 2
