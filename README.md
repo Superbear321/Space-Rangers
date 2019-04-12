@@ -33,3 +33,7 @@ Collect he red balls with the 2 lines to get double shot. If you collect another
 **Bold** and _Italic_ and `Code` text
 ## Game Images
 ![Screenshot](https://raw.githubusercontent.com/Superbear321/Space-Rangers/master/Screenshot%20(1).png)
+
+## Enemies
+- Red Ships = Aliens : Shoot down
+- Red Stars = Sentrys : Shoot tracking bullets (Do not hurt you)(Can kill aliens when they bounce off you)
