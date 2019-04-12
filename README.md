@@ -32,4 +32,4 @@ Collect he red balls with the 2 lines to get double shot. If you collect another
 
 **Bold** and _Italic_ and `Code` text
 ## Game Images
-![Screenshot](
+![Screenshot](https://raw.githubusercontent.com/Superbear321/Space-Rangers/master/Screenshot%20(1).png)
