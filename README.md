@@ -1,4 +1,4 @@
-### Space Rangers
+# Space Rangers
 
 In this game you a Space Ranger patrolling the Galaxy when you come across millions of aggressive aliens start to attack you. 
 
