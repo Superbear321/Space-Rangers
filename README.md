@@ -1,4 +1,4 @@
-# Backstory
+## Backstory
 
 In this game you a Space Ranger patrolling the Galaxy when you come across millions of aggressive aliens start to attack you. 
 
@@ -12,10 +12,14 @@ For every one alien you kill you get one point
 
 ## Controls
 
-W = single shot
-A = Move left
-D = Move right
-SPACE = Continously Shoot
+- W = single shot
+- A = Move left
+- D = Move right
+- SPACE = Continously Shoot
+
+## Powerups
+
+Collect he red balls with the 2 lines to get double shot. If you collect another powerup while having one powerup already, you will get triple shot. Once you die you lose all your powerups.
 
 ## Instructions
 
@@ -28,15 +32,3 @@ SPACE = Continously Shoot
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Superbear321/Space-war/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
