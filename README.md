@@ -10,7 +10,7 @@ Live for as long as possible before getting killed by the increasing difficulty 
 
 For every one alien you kill you get one point
 
-# _Game Play_
+# **_Game Play_**
 
 ## Controls
 
@@ -39,6 +39,6 @@ Collect he red balls with the 2 lines to get double shot. If you collect another
 - Red Ships = Aliens : Shoot down
 - Red Stars = Sentrys : Shoot tracking bullets (Do not hurt you)(Bullets can kill aliens when they bounce off you)
 
-# _Citations_
+# **_Citations_**
 
 ## Images
