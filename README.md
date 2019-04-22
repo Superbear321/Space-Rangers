@@ -47,4 +47,4 @@ Collect he red balls with the 2 lines to get double shot. If you collect another
 
 ## Images
 Images of ship lives, lazers, and sentries are from https://www.kenney.nl/
-Images of enemny ships and player ship are from
+Images of enemny ships and player ship are from https://github.com/lordsniivy
