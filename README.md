@@ -12,7 +12,7 @@ For every one alien you kill you get one point
 
 
 
-# __Game Play__
+# **_Game Play_**
 
 ## Controls
 
